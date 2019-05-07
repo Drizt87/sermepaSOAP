@@ -1,5 +1,5 @@
 {
-  "name": "Drizt87/sermepa",
+  "name": "Drizt87/sermepaSOAP",
   "description": "Pasarela de pago Redsys, Sermepa",
   "keywords": ["sermepa", "payment", "pasarela", "lacaixa", "sabadell", "redsys"],
   "homepage": "https://github.com/Drizt87/sermepaSOAP",
@@ -16,8 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Sermepa\\Tpv\\": "src/Sermepa/Tpv/"
+      "Sermepa\\Tpv\\": "src/"
     }
-  },
-  "minimum-stability": "stable"
+  }
 }
