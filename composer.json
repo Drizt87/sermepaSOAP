@@ -1,22 +1,12 @@
 {
-  "name": "Drizt87/sermepaSOAP",
-  "description": "Pasarela de pago Redsys, Sermepa",
-  "keywords": ["sermepa", "payment", "pasarela", "lacaixa", "sabadell", "redsys"],
-  "homepage": "https://github.com/Drizt87/sermepaSOAP",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Drizt87",
-      "email": "daniel@mateotormo.es",
-      "homepage": "https://mateotormo.es/"
-    }
-  ],
-  "require": {
-    "php": ">=7.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "Sermepa\\Tpv\\": "src/"
-    }
-  }
+    "name": "drizt87/sermepa-soap",
+    "description": "Pasarela de pago SOAP Redsys, Sermepa",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Drizt87",
+            "email": "daniel@mateotormo.es"
+        }
+    ],
+    "require": {}
 }
